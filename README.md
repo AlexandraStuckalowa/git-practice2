@@ -1,2 +1,4 @@
-hello b
-a
+h
+e
+l
+o
